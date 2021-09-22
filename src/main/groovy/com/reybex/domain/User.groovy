@@ -8,7 +8,7 @@ class User {
     String email
 
     static mapping = {
-
+        version false
     }
 
 }
