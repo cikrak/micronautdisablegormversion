@@ -31,3 +31,7 @@
 
 # "temporary" build files
 /target
+/build/classes/groovy/main/com/reybex/domain/$User$Introspection$$0.class
+/build/
+/.idea/
+/.gradle/
